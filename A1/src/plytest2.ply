@@ -1,0 +1,5 @@
+ply 
+format ascii 1.0 
+element vertex 9 
+property float32 x 
+property float32 y
